@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Ripetizione variabili java");
         int a = 5;
         double b = 19.99;
-        Boolean c = true;
+        boolean c = true;
         char e = 'A';
         String d = "Ciao a tutti";
         System.out.println("Valore di a: " + a);
